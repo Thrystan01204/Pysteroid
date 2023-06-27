@@ -1,7 +1,5 @@
 # Pysteroid
 
-3 modules :
-
-- client
-- server
-- game
+```shell
+pip install pyglet pymunk
+```
